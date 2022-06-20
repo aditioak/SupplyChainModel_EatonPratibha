@@ -9,4 +9,4 @@ The model can be built in excel or other analysis and visualization tools as per
 Product chosen: Power Inverters
 
 
-Refer to ppt and Excel file for solution
+Refer to ppt and Excel file for solution (Click "View Raw" on each to download)
