@@ -7,7 +7,11 @@ Problem Statement: Lead Time, Safety Stock, Minimum Order Quantities and ABC cla
 <li>Simulates the impact of the re-calculated parameters on Inventory levels</li></ol>
 The model can be built in excel or other analysis and visualization tools as per convenience, but should clearly outline the input, calculation process, simulation capabilities and stage wise output
 
+<br>
+</br>
 Product chosen: Power Inverters
 
+<br>
+</br>
 
 Refer to ppt and Excel file for solution (Click "View Raw" on each to download)
